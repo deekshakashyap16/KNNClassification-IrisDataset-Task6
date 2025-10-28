@@ -1,8 +1,8 @@
-# Task 6: K-Nearest Neighbors (KNN) Classification — Iris Dataset
+# Task 6: K-Nearest Neighbors (KNN) Classification-Iris Dataset
 
 This repository contains my implementation of the K-Nearest Neighbors (KNN) algorithm using the Iris dataset. The goal was to understand how KNN works, experiment with different values of K, and visualize how it classifies data.
 
-What did I do?
+### What did I do?
 
 #### Data Preprocessing
 
