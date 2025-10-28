@@ -12,7 +12,7 @@ Normalized the features using MinMaxScaler since KNN relies on distance, and fea
 #### Training the KNN Model
 
 Trained a KNeighborsClassifier with k = 5.
-Achieved 100% accuracy on the test set — not surprising, since the Iris dataset is simple and perfectly separable.
+Achieved 100% accuracy on the test set, not surprising, since the Iris dataset is simple and perfectly separable.
 The confusion matrix and classification report showed no misclassifications.
 
 #### Experimenting with Different K Values
